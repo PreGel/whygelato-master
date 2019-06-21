@@ -23,7 +23,7 @@
         <!--  <div class="slide slide-1 overlay-dk"></div> -->
           <div class="slide slide-1"></div>
          <figcaption class="orbit-caption">
-           <h2 class="boxy">Create a Sweet Future with Endless Potential<br/><a class="large button hollow white" href="/business">Open a Gelateria!</a></h2>
+           <h2 class="boxy">Create a Sweet Future with Endless Potential<br/><a class="large button hollow white" href="/business/resources/">Gelateria Resources</a></h2>
           <!-- <h2>Ever thought of opening your own gelateria?</h2>
           <h3><a class="large button hollow white" href="/business">We are here to help!</a></h3> -->
         </figcaption>
