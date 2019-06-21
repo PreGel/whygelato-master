@@ -148,7 +148,7 @@
 </a>
 </div>
 <div class="large-4 columns text-center">
-  <a href="business">
+  <a href="business/resources">
  <div class="navicon ni3">
   <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -209,7 +209,7 @@
     c-0.2,0-0.4,0-0.5,0s-0.3,0-0.3-0.1l-2.8-4.7v4.7c-0.4,0.1-0.7,0.1-1,0.1s-0.6,0-1-0.1V134.4z"/>
 </g>
 </svg>
-<h2>Open a Gelateria</h2>
+<h2>Gelateria Resources</h2>
 </div>
 </a>
 </div>

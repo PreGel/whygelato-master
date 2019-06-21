@@ -32,9 +32,9 @@
         </div>
         <div class="large-4 columns">
           <ul class="overlay-menu-ul">
-            <li class="top-level-li"><a href="/business/">Open a Gelateria</a></li>
-            <li><a href="/business/services/">Services</a></li>
-            <li><a href="/business/resources/">Resources</a></li>
+            <li class="top-level-li"><a href="#">Gelateria Resources</a></li>
+           <!--  <li><a href="/business/services/">Services</a></li> -->
+            <li><a href="/business/resources/">Industry Support</a></li>
             <li><a href="/add-your-shop/">Add Your Gelateria</a></li>
             <li><a href="/shops/">Business Interview</a></li>
           </ul>
