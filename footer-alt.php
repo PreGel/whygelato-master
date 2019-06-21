@@ -44,7 +44,7 @@
 			</div> <!-- end .off-canvas-wrapper-inner -->
 		</div> <!-- end .off-canvas-wrapper -->
 		<!-- get the business panel content -->
-		<?php get_template_part( 'parts/content', 'offcanvas-business' ); ?>
+		<?php //get_template_part( 'parts/content', 'offcanvas-business' ); ?>
 		<?php wp_footer(); ?>
 	</body>
 </html> <!-- end page -->
